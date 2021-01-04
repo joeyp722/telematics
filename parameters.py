@@ -17,4 +17,4 @@ n_init = 10
 max_no_improvement = 10
 
 # KNearestNeighbors algorithm parameters.
-n_neighbors = 4
+n_neighbors = 3
